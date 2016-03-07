@@ -1,0 +1,18 @@
+Initialize git
+git init
+link your mobile with the github repository 
+
+git remote add origin y el link
+
+track
+ 
+git add
+
+git add. (Agrega archivos nuevos o modificados)
+
+git add -u agrega los cambios a midificadores
+
+git add -a agrega todo
+
+git commit -m "mensaje"
+
